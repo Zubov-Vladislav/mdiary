@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "mongo": {
+      "options": {
+        "useCreateIndex": true
+      }
+    }
+  }
+}
